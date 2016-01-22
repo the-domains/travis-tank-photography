@@ -1,0 +1,28 @@
+name: Travis Tank Photography
+favicon: null
+layout_spectrum: 0.378143795998767
+typography_spectrum: 0.01201919512823224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.53981918329373
+  lightness: 0.9547876559663564
+  saturation: 0.7166114281862974
+  rhythmicContrast: 0.6708058507647365
+purpose: []
