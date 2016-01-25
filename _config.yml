@@ -1,28 +1,40 @@
-name: Travis Tank Photography
-favicon: null
-layout_spectrum: 0.378143795998767
-typography_spectrum: 0.01201919512823224
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.387234
+  brandStrength: 0.53981918329373
+  lightness: 0.2425532
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.53981918329373
-  lightness: 0.9547876559663564
-  saturation: 0.7166114281862974
-  rhythmicContrast: 0.6708058507647365
-purpose: []
+  rhythmicContrast: 0.2702128
+typography_spectrum: 0.4085106
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.378143795998767
+favicon: null
+name: Travis Tank Photography
