@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Travis Tank Photography
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#FAD8D6'
   rhythmicContrast: 0.2702128
 typography_spectrum: 0.4085106
+layout_spectrum: 0.2106383
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.378143795998767
-favicon: null
-name: Travis Tank Photography
+analytics:
+  twitter: null
+  google: null
+  facebook: null
