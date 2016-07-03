@@ -1,7 +1,7 @@
 name: Travis Tank Photography
 favicon: null
-layout_spectrum: 0.2106383
-typography_spectrum: 0.4085106
+layout_spectrum: 0.69932
+typography_spectrum: 0.05571
 collections:
   - index:
       path: /
